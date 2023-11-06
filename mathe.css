@@ -14,3 +14,9 @@ body{
     .tito{
         color: dimgrey;
     }
+.imagem1{
+    width: 30%;
+}
+.imagemcentralizada{
+   text-align:center; 
+}
